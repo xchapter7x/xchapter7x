@@ -72,4 +72,9 @@ perspectives and let the best emerge. Quality outcomes is why we are here.
 
 ### Quotes/Thoughts
 
-We must also embrace debate and disagreement in our midst, since that is how we learn and strengthen our own arguments. It’s great to have our “safe spaces” to regenerate in. But spending too much time there only makes us weaker and less able to see what’s actually going on. What we ultimately want to see are individuals unafraid of standing up for what they believe in, even if they’re the only ones in a crowd, and even if that crowd is composed of their own friends. We want to see these individuals supported, even celebrated, because of the strength they’re showing. It’s easy to fit into a crowd. But encouraging individual thought above all else is what this community should always be about.     *2600 - Celebrate the difference*
+**Thoughts on testing:**
+Software engineering is a science (computer science). In science, until something is proven deterministically to be true, it's just a theory. Therefore, until you have passing tests which can deterministacally prove your code is working all you have is a theory. Don't deliver theories deliver facts :) In short, if you don't have passing tests, you don't have working code.  
+
+**Thoughts on ideas, opinions & beliefs (using a quote):**
+We must also embrace debate and disagreement in our midst, since that is how we learn and strengthen our own arguments. It’s great to have our “safe spaces” to regenerate in. But spending too much time there only makes us weaker and less able to see what’s actually going on. What we ultimately want to see are individuals unafraid of standing up for what they believe in, even if they’re the only ones in a crowd, and even if that crowd is composed of their own friends. We want to see these individuals supported, even celebrated, because of the strength they’re showing. It’s easy to fit into a crowd. But encouraging individual thought above all else is what this community should always be about.     
+*2600 - Celebrate the difference*
