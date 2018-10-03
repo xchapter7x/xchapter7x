@@ -22,9 +22,18 @@ Value in this case coming in the form of strengthening individuals,
 strengthening business practices and providing a more productive and 
 healthy environment to work in. Picking up prioritized stories as 
 an individual contributor with focus on moving product deliverables 
-forward is not my domain.
-
+forward is not my domain. 
 That said, I do still write code and as an engineer am passionate about the topic.
+
+Can you gain quorum and support on the team for your idea? 
+Can you deliver on your idea? 
+Then thats all the permission you need. Go and do it! 
+**My role is not to permit or order you to do things, 
+my role is to enable and empower you do do things.**
+I will be standing right next to you every step of the way providing air cover 
+and making sure you have everything you need to be successful. 
+
+
 
 ### Values
 
