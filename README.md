@@ -87,3 +87,9 @@ Software engineering is a science (computer science). In science, until somethin
 **Thoughts on ideas, opinions & beliefs (using a quote):**
 We must also embrace debate and disagreement in our midst, since that is how we learn and strengthen our own arguments. It’s great to have our “safe spaces” to regenerate in. But spending too much time there only makes us weaker and less able to see what’s actually going on. What we ultimately want to see are individuals unafraid of standing up for what they believe in, even if they’re the only ones in a crowd, and even if that crowd is composed of their own friends. We want to see these individuals supported, even celebrated, because of the strength they’re showing. It’s easy to fit into a crowd. But encouraging individual thought above all else is what this community should always be about.     
 *2600 - Celebrate the difference*
+
+
+**You tell me that I make no difference, well at least I'm f^cking trying! What the f^ck have you done?**
+*- Minor Threat: In my eyes*
+[lyrics](https://genius.com/Minor-threat-in-my-eyes-lyrics)
+[video](https://www.youtube.com/watch?v=D6to2A4kbJs)
