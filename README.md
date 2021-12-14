@@ -92,4 +92,4 @@ We must also embrace debate and disagreement in our midst, since that is how we 
 **You tell me that I make no difference, well at least I'm f^cking trying! What the f^ck have you done?**
 *- Minor Threat: In my eyes*
 [lyrics](https://genius.com/Minor-threat-in-my-eyes-lyrics)
-[video](https://www.youtube.com/watch?v=D6to2A4kbJs)
+[video](https://www.youtube.com/watch?v=z2jEHyhBXe8)
